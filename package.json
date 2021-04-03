@@ -1,0 +1,19 @@
+{
+  "name": "manifold-developers",
+  "version": "0.0.1",
+  "description": "development and engineering style/guides",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/guidebook.git"
+  },
+  "author": "sam",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/guidebook/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/guidebook#readme"
+}
