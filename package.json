@@ -4,7 +4,7 @@
   "description": "development and engineering style/guides",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "build": "npx adr-log -d ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manifoldfinance/guidebook/issues"
   },
-  "homepage": "https://github.com/manifoldfinance/guidebook#readme"
+  "homepage": "https://github.com/manifoldfinance/guidebook#readme",
+  "devDependencies": {
+    "adr-log": "^2.2.0"
+  }
 }
